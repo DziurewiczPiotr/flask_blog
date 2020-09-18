@@ -1,0 +1,12 @@
+flask
+flask-wtf
+flask-sqlalchemy
+flask-migrate
+flask-login
+pytest
+pytest-cov
+factory_boy
+snapshottest
+pre-commit
+email-validator
+gunicorn
